@@ -1,8 +1,8 @@
 # [Filipe Deschamps](https://filipedeschamps.com.br/)
 
-Filipe Deschamps YouTube channel content  
+_Filipe Deschamps YouTube channel content_  
 
-## [GitHub](https://github.com/filipedeschamps)
+([Filipe Deschamps on GitHub](https://github.com/filipedeschamps))
 
 ## [YouTube](https://www.youtube.com/FilipeDeschamps)
 
