@@ -9,5 +9,3 @@ _Filipe Deschamps YouTube channel content_
 <br>
 
 :octocat: [Filipe Deschamps on GitHub](https://github.com/filipedeschamps)  
-
-asd
