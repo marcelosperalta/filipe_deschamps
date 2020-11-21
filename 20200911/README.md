@@ -52,14 +52,4 @@ npm run dev
 
 ### Deploy
 
-```
-git add -A
-```
-
-```
-git commit -m "first page"
-```
-
-```
-git push
-```
+https://www.youtube.com/watch?v=EW7m2WIvFgQ&t=23m05s  
