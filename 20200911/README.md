@@ -5,3 +5,43 @@
 ## React Framework
 
 [Next.js](https://nextjs.org/)
+
+### Create "package.json"
+
+```
+npm init -y
+```
+
+### Install dependencies
+
+```
+npm install next
+```
+
+```
+npm install react
+```
+
+```
+npm install react-dom
+```
+
+or  
+
+```
+npm install next react react-dom
+```
+
+### Create a script in the file "package.json"
+
+```
+  "scripts": {
+    "dev": "next dev"
+  },
+```
+
+### Run the project
+
+```
+npm run dev
+```
