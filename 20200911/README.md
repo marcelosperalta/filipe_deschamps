@@ -32,7 +32,7 @@ or
 npm install next react react-dom
 ```
 
-### Create a ```pages``` folder and an ```index.js``` file inside
+### Create a ```pages``` folder and an ```index.js``` file inside (or ```index.ts```)
 
 ![Pages](./readme/screenshot01.png)  
 
