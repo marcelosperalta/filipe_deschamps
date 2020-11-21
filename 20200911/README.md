@@ -32,6 +32,10 @@ or
 npm install next react react-dom
 ```
 
+### Create a ```pages``` folder and an ```index.js``` file inside
+
+![Pages](./readme/screenshot01.png)  
+
 ### Create a script in the file "package.json"
 
 ```
