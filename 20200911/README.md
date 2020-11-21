@@ -49,3 +49,17 @@ npm install next react react-dom
 ```
 npm run dev
 ```
+
+### Deploy
+
+```
+git add -A
+```
+
+```
+git commit -m "first page"
+```
+
+```
+git push
+```
