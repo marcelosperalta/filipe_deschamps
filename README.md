@@ -15,3 +15,7 @@ _Filipe Deschamps YouTube channel content_
 #react #vercel  
 :link: [Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]](./20201109)  
 <br>
+
+#react #vercel  
+:link: [Como Programar Sites Difíceis de Cair? (Qualidade Profissional)](./20201130)  
+<br>
