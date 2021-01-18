@@ -1,0 +1,17 @@
+{
+  "name": "20200911",
+  "version": "1.0.0",
+  "description": "Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
