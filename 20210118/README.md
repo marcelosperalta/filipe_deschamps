@@ -10,6 +10,8 @@
 
 https://nuxtjs.org/docs/2.x/features/file-system-routing/
 
+![fsr](./readme/fsr.png)  
+
 ### Create "package.json"
 
 ```
