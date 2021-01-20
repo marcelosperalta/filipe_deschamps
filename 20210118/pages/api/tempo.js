@@ -1,6 +1,8 @@
 async function tempo(request, response) {
 
     // variável de ambiente
+    // criar um arquivo ".env" na raiz do projeto e colocar o valor da variável "CONVERTKIT_API_SECRET" nesse arquivo
+    // exemplo: CONVERTKIT_API_SECRET=password
     const apiSecret = process.env.CONVERTKIT_API_SECRET;
 
     const dynamicDate = new Date();
