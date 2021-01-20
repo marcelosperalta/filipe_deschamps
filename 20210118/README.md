@@ -71,3 +71,7 @@ https://vercel.com/
 ### DNS Propagation Checker
 
 [whatsmydns.net](https://www.whatsmydns.net/)  
+
+### JSON Viewer google chrome extension
+
+[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
