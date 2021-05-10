@@ -8,6 +8,10 @@ _Filipe Deschamps YouTube channel content_
 ## :tv: [YouTube](https://www.youtube.com/FilipeDeschamps)
 <br>
 
+#javascript  
+:link: [Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?)](./20191120)  
+<br>
+
 #react  
 :link: [Se Você Passar Por Esses 5 Desafios, Você Aprendeu React JS](./20201102)  
 <br>
